@@ -1,5 +1,5 @@
 ---
-layout:posts
+layout: post
 title: "Enes Tasbas, Sofware Developer, first post"
 date: 2016-04-06
 ---
